@@ -1,4 +1,6 @@
-
+@extends('master.master')
+@section('title','Sửa thành viên')
+@section('content')
 <!-- content -->
 <article class="content dashboard-page">
         <div class="col-md-12">
@@ -30,3 +32,4 @@
 
 </article>
 <!-- end content -->
+@stop
